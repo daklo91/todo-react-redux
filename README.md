@@ -1,7 +1,11 @@
-# Todo React
+# Todo React Redux
+
+This is the same as [Todo React](#hurdles-during-development), but with redux.
+
+I thought the code was too messy, so I refactored it and thought I could just as well add redux to make it look more orderly.
 
 A todo-list app made with React.  
-Live version on Netlify: https://daklo-todo-react.netlify.app/
+
 
 ![Introduction image](/screenshots/intro-picture.png?raw=true "Picture showing how the app looks like in use")
 
