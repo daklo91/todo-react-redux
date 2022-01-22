@@ -1,6 +1,6 @@
 # Todo React Redux
 
-This is the same as [Todo React](#hurdles-during-development), but with redux.
+This is the same as [Todo React](https://github.com/daklo91/todo-react), but with redux.
 
 I thought the code was too messy, so I refactored it and thought I could just as well add redux to make it look more orderly.
 
